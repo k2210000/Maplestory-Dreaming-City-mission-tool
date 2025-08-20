@@ -10,13 +10,14 @@
 <img width="810" height="993" alt="Image" src="https://github.com/user-attachments/assets/c1c8d493-6ae3-4d06-9bf1-c3ffb7386749" />
 
 ---
-# 使用教學
+# 使用教學01
 旁邊Relase點開，下載"Dreaming-City-mission-tool.v1.0.rar"
 
 解壓縮到你想放的地方
 
 雙擊"午夜追擊者-小工具.exe"即可
 
+# 使用教學02
 ---
 
 ## 結尾
