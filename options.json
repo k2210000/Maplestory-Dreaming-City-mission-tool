@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "name": "箱子",
+    "image": "images/箱子.png"
+  },
+  {
+    "id": 2,
+    "name": "沙發",
+    "image": "images/沙發.png"
+  },
+  {
+    "id": 3,
+    "name": "時鐘",
+    "image": "images/時鐘.png"
+  },
+  {
+    "id": 4,
+    "name": "播放機",
+    "image": "images/播放機.png"
+  },
+  {
+    "id": 5,
+    "name": "鏡子",
+    "image": "images/鏡子.png"
+  },
+  {
+    "id": 6,
+    "name": "櫃子",
+    "image": "images/櫃子.png"
+  },
+  {
+    "id": 7,
+    "name": "鋼琴",
+    "image": "images/鋼琴.png"
+  },
+  {
+    "id": 8,
+    "name": "號角手",
+    "image": "images/號角手.png"
+  },
+  {
+    "id": 9,
+    "name": "床",
+    "image": "images/床.png"
+  }
+]
