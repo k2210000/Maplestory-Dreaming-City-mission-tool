@@ -11,13 +11,21 @@
 
 ---
 # 使用教學01
-旁邊Relase點開，下載"Dreaming-City-mission-tool.v1.0.rar"
+旁邊Relase點開，下載```Dreaming-City-mission-tool.v1.0.rar```
 
 解壓縮到你想放的地方
 
 雙擊"午夜追擊者-小工具.exe"即可
 
-# 使用教學02
+# 使用教學01
+旁邊Relase點開，下載```Dreaming-City-mission-tool.bat.version.v1.0.rar```
+
+解壓縮到你想放的地方
+
+之後要安裝python套件，打開cmd，輸入```pip install pillow```
+
+安裝完成後點擊```執行.bat```即可使用
+
 ---
 
 ## 結尾
