@@ -12,7 +12,9 @@
 ---
 # 使用教學
 旁邊Relase點開，下載"Dreaming-City-mission-tool.v1.0.rar"
+
 解壓縮到你想放的地方
+
 雙擊"午夜追擊者-小工具.exe"即可
 
 ---
